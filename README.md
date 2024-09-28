@@ -7,7 +7,6 @@
   <li>🎓 I have a background in <strong>Data Analysis and Software Development</strong>.</li>
   <li>💼 Currently, I’m working on projects related to <strong>Data Science, Cloud Solutions, and AI Applications</strong>.</li>
   <li>🌱 I’m constantly exploring new technologies, especially in <strong>Artificial Intelligence, Big Data, and Cloud Computing</strong>.</li>
-  <li>🔭 I’m working on <strong><a href="[Link para o projeto]">[Projetos atuais]</a></strong>.</li>
   <li>💬 Ask me about <strong>Python, JavaScript, Java, R, SQL, AWS, and Google Cloud</strong>.</li>
 </ul>
 
