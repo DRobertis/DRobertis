@@ -21,15 +21,6 @@
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
 </p>
 
-<h2>📊 GitHub Stats</h2>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Drobertis&show_icons=true&theme=radical" alt="GitHub Stats">
-  <br>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drobertis&layout=compact" alt="Top Languages">
-  </a>
-</p>
-
 <h2>📫 How to reach me:</h2>
 <ul>
   <li>Email: <a href="mailto:seu-email@example.com">drobertis@protonmail.com</a></li>
