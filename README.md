@@ -1,16 +1,14 @@
-<h1>👋 Hello! I'm Drobertis</h1>
+Sobre Mim
 
-<h2>About Me</h2>
-<p>I’m a passionate developer and tech enthusiast with expertise in <strong>Data Analysis, Software Development, Cloud Computing, Big Data, and Artificial Intelligence</strong>. I love working on creative and impactful projects that push the boundaries of technology. I’m always eager to learn new things and contribute to open-source communities.</p>
+Sou um desenvolvedor apaixonado e entusiasta da tecnologia, com experiência em **Análise de Dados, Desenvolvimento de Software, Computação em Nuvem, Big Data e Inteligência Artificial**. Adoro trabalhar em projetos criativos e impactantes que expandem os limites da tecnologia. Estou sempre em busca de aprendizado e contribuo ativamente para comunidades de código aberto.
 
-<ul>
-  <li>🎓 I have a background in <strong>Data Analysis and Software Development</strong>.</li>
-  <li>💼 Currently, I’m working on projects related to <strong>Data Science, Cloud Solutions, and AI Applications</strong>.</li>
-  <li>🌱 I’m constantly exploring new technologies, especially in <strong>Artificial Intelligence, Big Data, and Cloud Computing</strong>.</li>
-  <li>💬 Ask me about <strong>Python, JavaScript, Java, R, SQL, AWS, and Google Cloud</strong>.</li>
-</ul>
+###  O que estou fazendo agora?
+- Atualmente, estou trabalhando em projetos relacionados a **Ciência de Dados, Soluções em Nuvem e Aplicações de Inteligência Artificial**.
+- Sempre explorando novas tecnologias, com foco especial em **IA, Big Data e Computação em Nuvem**.
 
-<h2>🚀 Technologies & Tools</h2>
+---
+
+Tecnologias & Ferramentas
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
@@ -18,10 +16,57 @@
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
 </p>
 
-<h2>📫 How to reach me:</h2>
-<ul>
-  <li>Email: <a href="mailto:seu-email@example.com">drobertis@protonmail.com</a></li>
-</ul>
+---
+
+Como me encontrar:
+- Email: [drobertis@protonmail.com](mailto:drobertis@protonmail.com)
+
+---
+
+## Minhas Estatísticas no GitHub
+
+<p align="center">
+    <a href="https://github.com/drobertis/drobertis.git">
+        <img title="Estatísticas de streak" alt="DRobertis streak" src="https://github-readme-streak-stats.herokuapp.com/?user=drobertis&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+  <br/>
+  <a href="https://github.com/drobertis/drobertis.git"><img alt="DRobertis Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=drobertis&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/drobertis/drobertis.git"><img alt="Drobertis Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drobertis&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide=javascript" /></a>
+  <br/>
+  <b>Nota:</b> Os idiomas listados refletem apenas os códigos públicos e não necessariamente meu nível de experiência.
+
+---
+
+##  Linguagens & Ferramentas
+
+### Principais:
+<p>
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+</p>
+
+### Desenvolvimento Web:
+<p>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+</p>
+
+### Bancos de Dados:
+<p>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+</p>
+
+---
+
+<img src="https://imgur.com/rilHVxA.png"/>
