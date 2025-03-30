@@ -1,4 +1,4 @@
-<h2>Ola</h2>
+<h2>Olá!</h2>
 ---
 
 Tecnologias & Ferramentas
