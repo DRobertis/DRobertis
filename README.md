@@ -1,11 +1,4 @@
-Sobre Mim
-
-Sou um desenvolvedor apaixonado e entusiasta da tecnologia, com experiência em **Análise de Dados, Desenvolvimento de Software, Computação em Nuvem, Big Data e Inteligência Artificial**. Adoro trabalhar em projetos criativos e impactantes que expandem os limites da tecnologia. Estou sempre em busca de aprendizado e contribuo ativamente para comunidades de código aberto.
-
-###  O que estou fazendo agora?
-- Atualmente, estou trabalhando em projetos relacionados a **Ciência de Dados, Soluções em Nuvem e Aplicações de Inteligência Artificial**.
-- Sempre explorando novas tecnologias, com foco especial em **IA, Big Data e Computação em Nuvem**.
-
+<h2>Ola</h2>
 ---
 
 Tecnologias & Ferramentas
@@ -15,7 +8,6 @@ Tecnologias & Ferramentas
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
 </p>
 
 ---
